@@ -6,6 +6,8 @@ The Generator is now support 81 character which include english alphabet, number
 
 ^ # , . ? ! | & _ ~ @ $ % / \ = + - *
 
+This is part of Power Tools.
+
 # Checksum<br />
 MD5:1a9a7778648c0162443c0daeca6282b4<br />
 SHA-1:f52eb7ba84eb9a4d0efad0181ac1718bc2d6653e<br />
